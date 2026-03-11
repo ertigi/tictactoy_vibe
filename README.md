@@ -355,7 +355,7 @@ Demo находится в `Assets/Scenes/SampleScene.unity`.
 
 Место под видео с примером работы модуля:
 
-- [Docs/Media/tictactoe-demo.mp4](Docs/Media/tictactoe-demo.mp4)
+![Gameplay Demo](Assets/Docs/tictactoe-demo.gif)
 
 Если файл еще не добавлен, ссылка начнет работать после помещения видео по указанному пути.
 
