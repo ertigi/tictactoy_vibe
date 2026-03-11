@@ -346,6 +346,19 @@ Demo находится в `Assets/Scenes/SampleScene.unity`.
 - вынести reward-drop таблицы в более удобные production-конфиги;
 - добавить телеметрию сессий и outcome tracking.
 
+## Дополнительные материалы
+
+- UML-диаграмма: [Docs/TicTacToeModule.UML.md](Docs/TicTacToeModule.UML.md)
+- Описание использования AI в разработке: [Docs/AI-Usage.md](Docs/AI-Usage.md)
+
+## Видео геймплея
+
+Место под видео с примером работы модуля:
+
+- [Docs/Media/tictactoe-demo.mp4](Docs/Media/tictactoe-demo.mp4)
+
+Если файл еще не добавлен, ссылка начнет работать после помещения видео по указанному пути.
+
 ## Итог
 
 Проект реализует миниигру "Крестики-нолики" как переиспользуемый embedded module для Unity:
